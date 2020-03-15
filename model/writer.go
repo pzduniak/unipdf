@@ -202,8 +202,8 @@ func NewPdfWriter() PdfWriter {
 		key   core.PdfObjectName
 		value string
 	}{
-		{"Producer", getPdfProducer()},
-		{"Creator", getPdfCreator()},
+		{"Producer", "notarybot"},
+		{"Creator", "notarybot"},
 		{"Author", getPdfAuthor()},
 		{"Subject", getPdfSubject()},
 		{"Title", getPdfTitle()},
