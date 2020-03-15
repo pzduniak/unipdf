@@ -11,8 +11,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/pzduniak/unipdf/common"
+	"github.com/pzduniak/unipdf/core"
 )
 
 // ContentStreamWrapper wraps the Page's contentstream into q ... Q blocks.

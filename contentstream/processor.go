@@ -9,10 +9,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/internal/transform"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/pzduniak/unipdf/common"
+	"github.com/pzduniak/unipdf/core"
+	"github.com/pzduniak/unipdf/internal/transform"
+	"github.com/pzduniak/unipdf/model"
 )
 
 // GraphicsState is a basic graphics state implementation for PDF processing.

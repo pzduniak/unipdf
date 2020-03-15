@@ -15,7 +15,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/pzduniak/unipdf/common"
 )
 
 // Check slice range to make sure within bounds for accessing:

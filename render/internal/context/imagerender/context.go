@@ -16,8 +16,8 @@ import (
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/f64"
 
-	"github.com/unidoc/unipdf/v3/internal/transform"
-	"github.com/unidoc/unipdf/v3/render/internal/context"
+	"github.com/pzduniak/unipdf/internal/transform"
+	"github.com/pzduniak/unipdf/render/internal/context"
 )
 
 var (

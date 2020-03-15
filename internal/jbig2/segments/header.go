@@ -12,9 +12,9 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/pzduniak/unipdf/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/pzduniak/unipdf/internal/jbig2/reader"
 )
 
 // Header is the segment header used to define the segment parameters - see 7.2.

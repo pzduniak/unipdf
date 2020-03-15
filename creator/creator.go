@@ -12,8 +12,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/pzduniak/unipdf/common"
+	"github.com/pzduniak/unipdf/model"
 )
 
 // Creator is a wrapper around functionality for creating PDF reports and/or adding new

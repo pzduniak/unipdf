@@ -1,4 +1,4 @@
-module github.com/unidoc/unipdf/v3
+module github.com/pzduniak/unipdf
 
 require (
 	github.com/adrg/sysfont v0.1.0

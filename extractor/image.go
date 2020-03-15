@@ -6,10 +6,10 @@
 package extractor
 
 import (
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/contentstream"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/pzduniak/unipdf/common"
+	"github.com/pzduniak/unipdf/contentstream"
+	"github.com/pzduniak/unipdf/core"
+	"github.com/pzduniak/unipdf/model"
 )
 
 // ImageExtractOptions contains options for controlling image extraction from

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/pzduniak/unipdf/common"
+	"github.com/pzduniak/unipdf/core"
 )
 
 // FromFontDifferences converts `diffList` (a /Differences array from an /Encoding object) to a map

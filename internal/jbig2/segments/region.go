@@ -10,10 +10,10 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/pzduniak/unipdf/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/pzduniak/unipdf/internal/jbig2/bitmap"
+	"github.com/pzduniak/unipdf/internal/jbig2/reader"
 )
 
 // RegionSegment is the model representing base jbig2 segment region - see 7.4.1.

@@ -8,9 +8,9 @@ package contentstream
 import (
 	"math"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/pzduniak/unipdf/common"
+	"github.com/pzduniak/unipdf/core"
+	"github.com/pzduniak/unipdf/model"
 )
 
 // ContentCreator is a builder for PDF content streams.
